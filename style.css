@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+p{
+    position: absolute;
+    font-size: 20px ;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
